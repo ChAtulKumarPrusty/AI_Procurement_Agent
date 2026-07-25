@@ -305,4 +305,8 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Contact
 
-For any questions or inquiries, please contact [Ch Atul Kumar Prusty / atulprusty.vercel.app /GitHub Profile].
+For any questions or inquiries, please contact 
+Name - Ch Atul Kumar Prusty
+Portfolio - atulprusty.vercel.app
+GitHub Profile - https://github.com/ChAtulKumarPrusty/
+Linkedin Profile - https://www.linkedin.com/in/chatulkumarprusty/
